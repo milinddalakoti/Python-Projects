@@ -1,2 +1,2 @@
 # Python-Projects
-Python projects 
+A bunch of python projects made by me.
